@@ -117,8 +117,8 @@ svg { display: block; flex-shrink: 0; }
   margin-bottom: 28px;
 }
 .profile-img-wrap {
-  width: 100px;
-  height: 100px;
+  width: 165px;
+  height: 165px;
   border-radius: 50%;
   margin: 0 auto 14px;
   overflow: hidden;
@@ -127,8 +127,8 @@ svg { display: block; flex-shrink: 0; }
   background: var(--accent-light);
 }
 .profile-img {
-  width: 120%;
-  height: 120%;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
    border-radius: 50%;
    object-position: center top;
